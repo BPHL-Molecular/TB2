@@ -1,2 +1,2 @@
 # TBx2
-TB Tool Benchmarking
+**TB** **T**ool **B**enchmarking

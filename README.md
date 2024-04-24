@@ -19,4 +19,4 @@ pip install pytablewriter
 bash benchmark.sh
 ```
 
-4. The result file is "Benchmark_report.txt"   
+### 4. The result file is "Benchmark_report.txt"   

@@ -1,0 +1,1 @@
+The reference genome used by WHO TB drug-resistant report is RefSeq NC_000962, complete genome, from Mycobacterium tuberculosis H37Rv. (https://www.genome.jp/dbget-bin/www_bget?refseq+NC_000962)
